@@ -4,7 +4,7 @@
 This project analyzes the Boston Airbnb dataset to gain insights into the short-term rental market in Boston. The analysis is performed using Python and various data science libraries. 
 
 ## Motivation
-The goal of this project is to understand trends in the Boston Airbnb market. This analysis can be valuable for hosts, travelers, and investors interested in the short-term rental landscape in Boston. I have included a full article about this on Medium, check it out here [Link text](https://medium.com/@mosakuayo/discover-bostons-airbnb-gold-rush-977077bb900b)
+The goal of this project is to understand trends in the Boston Airbnb market. This analysis can be valuable for hosts, travelers, and investors interested in the short-term rental landscape in Boston. I have included a full article about this on Medium, check it out [here](https://medium.com/@mosakuayo/discover-bostons-airbnb-gold-rush-977077bb900b)
 
 ## Libraries Used
 - pandas: For data manipulation and analysis
