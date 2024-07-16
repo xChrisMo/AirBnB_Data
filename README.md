@@ -31,6 +31,7 @@ The goal of this project is to understand trends in the Boston Airbnb market. Th
 
 ## Licensing 
 Copyright (c) 2024, Ayo
+
 This project is for personal and educational purposes only. All rights reserved.
 
 
