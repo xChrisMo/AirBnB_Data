@@ -11,7 +11,7 @@ The goal of this project is to understand trends in the Boston Airbnb market, in
 - pandas: For data manipulation and analysis
 - numpy: For numerical operations
 - matplotlib: For creating static visualizations
-- seaborn: For statistical data visualization
+- 'seaborn': For statistical data visualization
 - scikit-learn: For machine learning models built
 
 ## Files in the Repository
